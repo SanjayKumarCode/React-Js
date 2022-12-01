@@ -1,0 +1,696 @@
+/* .top1{
+    background-color: rgb(255, 255, 255);
+    background-position: center bottom;
+    background-size: cover;
+    background-repeat: no-repeat;
+    -webkit-box-pack: center;
+    justify-content: center;
+    overflow: visible;
+    padding: 0px 40px;
+} */
+
+
+.oneline{
+    width: 100%;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    flex-direction: row;
+    padding: 72px 24px;
+}
+
+
+.big{
+    margin-top: 60px;
+    text-align: left;
+    margin-bottom: 24px;
+    font-size: 3.125rem;
+    line-height: 1.2;
+    white-space: pre-line;
+    color: rgb(11, 53, 88);
+    font-weight: 700;
+    margin-bottom: 32px;
+    max-width: 770px;
+    user-select: text;
+    font-weight: bold;
+    padding-left: 175px; 
+    width: 90%; 
+}
+.para {
+    text-align: left; 
+    padding-left: 175px; 
+    width: 80%;
+    color: rgb(71, 103, 136); 
+     margin-block-end: 0px;
+    margin-block-start: 0px;
+    margin-inline-end: 0px;
+    padding-bottom: 32px;  
+    font-size: 20px;
+    font-weight: 400;
+    font-size: 1.25rem;
+    line-height: 1.4;  
+}
+
+.SignupButton {
+    /* text-align: left; */
+    transition: all 0.2s linear 0s;
+    position: relative;
+    /* display: inline-flex; */
+    flex-direction: row-reverse;
+    gap: 8px;
+    font-weight: 600;
+    min-height: 49px;
+    height: auto;
+    margin: 8px 0px;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 8px;
+    border-color: transparent;
+    background-color: rgb(0, 107, 255);
+    padding: 10px 18px;
+    color: rgb(255, 255, 255);
+    outline: none;
+    cursor: pointer;
+    font-size: 1.125rem;
+    line-height: 1.6; 
+    text-align: left;
+
+    /* text-decoration: none; */
+    
+ 
+}
+
+.Img1{
+    bottom: 0;
+   height: 100%;
+  width: 100%;
+    padding: 0;
+    top: 0;
+  
+}
+.SecondImg {
+    background-color: rgb(247, 250, 255);
+    background-position: center bottom;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+    display: flex;
+    -webkit-box-pack: center;
+    justify-content: center;
+    overflow: visible;
+    padding: 0px 40px;
+
+
+
+    display: flex;
+}
+.Img2 {
+   height: 50%;
+   width: 50%;
+
+  
+}
+.secondHalf {
+    height: 50%;
+    width: 50%;
+}
+.secondBlue {
+    margin-top: 60px;
+    font-weight: 600;
+    text-align: left;
+    color: rgb(0, 107, 255);
+    font-size: 1rem;
+    line-height: 1.2;
+    letter-spacing: 1.25px;
+    text-transform: uppercase;
+    margin-bottom: 24px;
+    padding-left: 175px;
+}
+.booking{
+    font-size: 1.75rem;
+    line-height: 1.4;
+    text-align: left;
+    color: rgb(29, 52, 75);
+    font-weight: 700;
+    margin-bottom: 24px;
+
+    padding-left: 175px; 
+    width: 90%; 
+}
+.para2 {
+  
+    width: 100%;
+    line-height: 1.71429;
+    height: auto;
+    padding-bottom: 32px;
+    color: rgb(71, 103, 136); 
+    text-align: left;
+    padding-left: 175px; 
+    font-size: 20px;
+    font-weight: 400;
+
+}
+.Getback {
+    transition: all 0.2s linear 0s;
+    position: relative;
+    /* display: inline-flex; */
+    flex-direction: row-reverse;
+    gap: 8px;
+    font-weight: 600;
+    min-height: 49px;
+    height: auto;
+    margin: 8px 0px;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 8px;
+    border-color: transparent;
+    background-color: rgb(0, 107, 255);
+    padding: 10px 18px;
+    color: rgb(255, 255, 255);
+    outline: none;
+    cursor: pointer;
+    font-size: 1.125rem;
+    line-height: 1.6;
+    text-align: left;
+
+}
+.oneline3 {
+    background-color: rgb(255, 255, 255);
+    background-position: center bottom;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+    display: flex;
+    -webkit-box-pack: center;
+    justify-content: center;
+    overflow: visible;
+    padding: 0px 40px;
+    margin-top: 80px;
+}
+.blue3 {
+    margin-top: 80px;
+    font-weight: 600;
+    text-align: left;
+    color: rgb(0, 107, 255);
+    font-size: 1rem;
+    line-height: 1.2;
+    letter-spacing: 1.25px;
+    text-transform: uppercase;
+    margin-bottom: 24px;
+
+    padding-left: 120px; 
+}
+.efficiently {
+    font-size: 1.75rem;
+    line-height: 1.4;
+    text-align: left;
+    color: rgb(29, 52, 75);
+    font-weight: 700;
+    margin-bottom: 24px;
+
+    padding-left: 120px; 
+}
+.para3 {
+   
+
+
+    line-height: 1.71429;
+    height: auto;
+    padding-bottom: 32px;
+    color: rgb(71, 103, 136); 
+    text-align: left;
+    padding-left: 120px; 
+    font-size: 20px;
+    font-weight: 400; 
+
+     width: 68%; 
+    /* width: 175%; */
+}
+.Arrow1 {
+    transition: all 0.2s linear 0s;
+    position: relative;
+    display: inline-flex;
+    flex-direction: row;
+    -webkit-box-align: center;
+    align-items: center;
+    text-align: left;
+    gap: 8px;
+    /* font-family: Gilroy; */
+    font-weight: 600;
+    height: auto;
+    margin: 8px 0px;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 8px;
+    border-color: transparent;
+    background-color: transparent;
+    color: rgb(0, 107, 255);
+    outline: none;
+    cursor: pointer;
+    font-size: 1.125rem;
+    line-height: 1.6;
+     margin-bottom: 80px;
+}
+h3.Arrow1:hover {
+    color: rgb(29, 52, 75);
+}
+.img3 {
+    bottom: 0;
+    height: 100%;
+    left: 0;
+    margin: 0;
+    max-width: none;
+    padding: 0;
+    /* position: absolute; */
+    right: 0;
+    top: 0;
+    width: 100%;
+    /* object-fit: cover; */
+}
+
+
+
+
+
+
+
+/* Box 1 */
+
+.boxCenter {
+    width: 100%;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 64px 24px;
+    min-height: 350px;
+
+    background-color: rgb(247, 250, 255);
+}
+
+.big2 {
+
+    margin-top: 60px; 
+     text-align: left; 
+     margin-bottom: 24px;
+      font-size: 3.125rem; 
+    line-height: 1.2;
+    white-space: pre-line;
+    color: rgb(11, 53, 88);
+    font-weight: 700;
+    margin-bottom: 32px; 
+     max-width: 770px;
+    user-select: text;
+    font-weight: bold;
+    text-align: center;  
+    
+     width: 150%;
+
+ } 
+.BigPara{
+    line-height: 1.71429;
+    height: auto;
+    padding-bottom: 32px;
+    color: rgb(71, 103, 136); 
+    font-size: 20px;
+    font-weight: 400;
+}
+.Button_box {
+    display: flex;
+   
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    gap: 16px;
+    width: 100%;
+   
+}
+.view_all,.See_our_plans {
+    transition: all 0.2s linear 0s;
+    position: relative;
+    display: inline-flex;
+    flex-direction: row-reverse;
+    -webkit-box-align: center;
+    align-items: center;
+    text-align: center;
+    gap: 8px;
+
+
+    /* font-family: Gilroy; */
+    /* font-weight: 600; */
+    
+    min-height: 49px;
+    height: auto;
+    margin: 8px 0px;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 8px;
+    border-color: transparent;
+    background-color: rgb(0, 107, 255);
+    padding: 10px 18px;
+    color: rgb(255, 255, 255);
+    outline: none;
+    cursor: pointer;
+    font-size: 1.125rem;
+    line-height: 1.6;
+
+}
+.Start_For_free {
+    transition: all 0.2s linear 0s;
+    position: relative;
+    display: inline-flex;
+    flex-direction: row;
+    -webkit-box-align: center;
+    align-items: center;
+    text-align: center;
+    gap: 8px;
+    /* font-family: Gilroy; */
+    font-weight: 600;
+    min-height: 49px;
+    height: auto;
+    margin: 8px 0px;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 8px;
+    border-color: rgb(0, 107, 255);
+    background-color: transparent;
+    padding: 10px 18px;
+    color: rgb(0, 107, 255);
+    outline: none;
+    cursor: pointer;
+    font-size: 1.125rem;
+    line-height: 1.6;
+
+}
+.bg_workpage {
+   
+    height: 60%;
+    max-height: 638px;
+    background-color: rgb(255, 255, 255);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+
+/*  HOW IT WORKs */
+.HOW,.FEATURES,.SOLUTIONS {
+    margin-top: 80px;
+    font-weight: 600;
+    /* text-align: left; */
+    color: rgb(0, 107, 255);
+    font-size: 1rem;
+    line-height: 1.2;
+    letter-spacing: 1.25px;
+    text-transform: uppercase;
+    margin-bottom: 24px;
+    z-index: 10;
+    text-align: center;
+
+}
+.See,.Favorite,.right {
+    font-size: 2.36875rem;
+    line-height: 1.4;
+    text-align: center;
+    color: rgb(11, 53, 88);
+    font-weight: 700;
+    margin-bottom: 24px;
+    /* max-width: 770px; */
+    /* z-index: 10; */
+    text-align: center;
+
+}
+.With {
+
+    width: 100%;
+    line-height: 1.71429;
+    height: auto;
+    padding-bottom: 32px;
+    color: rgb(71, 103, 136); 
+    font-size: 23px;
+    font-weight: 400;
+    /* padding-left: 30%; */
+    text-align: center;
+ 
+  
+}
+
+/* Slider Pic */
+/* .pic1,.pic2,.pic3 {
+
+    bottom: 0;
+    height: 100%;
+    left: 0;
+    margin: 0;
+    max-width: none;
+    padding: 0;
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 100%;
+    object-fit: cover;
+} */
+
+
+/* Box 2 */
+
+.Box2 {
+    /* background-color: rgb(10, 37, 64); */
+    background-image: url("https://images.ctfassets.net/k0lk9kiuza3o/41lq28noewrKzn6B9AXh1I/636e53047ab81e34ee6862ff822448f5/Calendly_CTA_bg__1_.png");
+    background-position: center bottom;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+    /* display: flex; */
+
+    -webkit-box-pack: center; 
+     justify-content: center;
+    overflow: visible;
+    padding: 0px 40px;
+
+   
+    
+}
+.big-size {
+
+    padding-top: 96px;
+    font-size: 3.125rem;
+    line-height: 1.2;
+    color: rgb(255, 255, 255);
+    font-weight: 700;
+    margin-bottom: 24px;
+    /* display: block; */
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    /* width: 50%; */
+
+    justify-content: center;
+    
+/* ================= */
+
+  /* padding-left: 50%; */
+   
+    /* margin-bottom: 32px;
+    max-width: 770px;
+    user-select: text;
+    font-weight: bold; */
+    /* padding-left: 250px;  */
+    /* width: 100%;  */
+   
+
+
+
+
+
+
+
+
+
+    /* padding: 50%; */
+     /* padding-inline-start: 450px;  */
+    text-align: center;
+    justify-content: center;
+      /* text-align: center; */
+    /* font-weight: bold; */
+    /* padding-left: 175px;  */
+ /* color: blue; */
+     /* font-size: 1.5em; */
+ /* text-align: center; */
+
+    /* width: 90%;  */
+}
+.plans {
+    padding-bottom: 96px;
+
+}
+
+
+/* SOLUTIONS */
+.Card_bg{
+   
+    width: 100%;
+    height: 60%;
+    max-height: 515px;
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+.display_flex {
+    /* display: flex; */
+     margin-left: 50%;
+
+     margin: auto;
+    height: auto;
+    display: grid;
+    grid-template-columns: repeat(4, minmax(267px, min(22.5%, 370px)));
+    gap: 8px;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: stretch;
+    align-items: stretch;
+    padding: initial;
+    /* z-index: 10; */
+
+}
+.card {
+   
+    justify-content: center;
+    border: 1px solid #dadada;
+    border-radius: 1%;
+    max-width: 285px;
+    height: 380px; 
+    /* margin-left: 13%; */
+    background:white;
+    width: 100%;
+    min-width: 0;
+    border: 1px solid #dadada;
+    border-radius: 6px;
+    background: #ffffff;
+    box-shadow: 0 1px 5px rgb(0 74 116 / 15%);   
+}
+.card-title {
+    text-align: initial;
+    padding-left: 20px;
+    margin-top: 24px;
+    color: rgb(11, 53, 88);
+    font-size: 1.25rem;
+    line-height: 1.4;
+    font-weight: 700;
+    margin-bottom: 16px;
+}
+.card-text {
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 3;
+    overflow: hidden;
+    padding: 0px;
+    line-height: 1.6;
+    color: rgb(71, 103, 136);
+    line-height: 1.71429;
+    font-size: 20px;
+    padding-bottom: 32px;
+    
+
+
+    /* line-height: 1.71429;
+    height: auto;
+    padding-bottom: 32px;
+     
+    font-size: 20px;
+    font-weight: 400; */
+}
+.card-link {
+    transition: all 0.2s linear 0s;
+    position: relative;
+    display: inline-flex;
+    flex-direction: row;
+    -webkit-box-align: center;
+    align-items: center;
+    text-align: center;
+    gap: 8px;
+    /* font-family: Gilroy; */
+    font-weight: 600;
+    height: auto;
+    margin: 8px 0px;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 8px;
+    border-color: transparent;
+    background-color: transparent;
+    color: rgb(0, 107, 255);
+    outline: none;
+    cursor: pointer;
+    font-size: 1.125rem;
+    line-height: 1.6;
+
+
+    text-align: left;
+    /* padding-left: 10px; */
+}
+
+
+/* Try Calendly free */
+
+.bg_last {
+    margin-top: 64px;
+    padding-top: 64px;
+    padding-bottom: 64px;
+    /* max-width: 1200px; */
+    width: 100%;
+    background-color: rgb(247, 250, 255);
+}
+.big_word_last {
+    text-align: center;
+    margin-bottom: 32px;
+   color: rgb(11, 53, 88);
+    font-size: 3.125rem;
+    line-height: 1.2;
+}
+.BigPara {
+    display: flex;
+    justify-content: center;
+}
+.Blue_link {
+    text-decoration: initial;
+    transition: all 0.2s linear 0s;
+    position: relative;
+    /* display: inline-flex; */
+    /* flex-direction: row;
+    -webkit-box-align: center;
+    align-items: center;
+    text-align: center; */
+    gap: 8px;
+    /* font-family: Gilroy; */
+    font-weight: 600;
+    height: auto;
+    margin: 8px 0px;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 8px;
+    border-color: transparent;
+    background-color: transparent;
+    color: rgb(0, 107, 255);
+    outline: none;
+    cursor: pointer;
+    font-size: 1.125rem;
+    line-height: 1.6;
+/* 
+    line-height: 1.71429;
+    height: auto;
+    padding-bottom: 32px;
+    color: rgb(71, 103, 136);  */
+    font-size: 20px;
+    font-weight: 500;
+}
+

@@ -1,0 +1,90 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 75px;
+    background-color:white;
+    color: black;
+
+    padding-left: 24px;
+    padding-right: 24px;
+
+
+    -webkit-box-pack: justify;
+   
+    -webkit-box-align: center;
+    align-items: center;
+    width: 100%;
+    /* max-width: 1280px; */
+    margin: 0px auto;
+    height: 104px;
+}
+/* .Logo{
+    font-size: 30px;
+} */
+.nav-Links{
+    display: flex;
+    justify-content: flex-end;
+    list-style: none;
+    width: 75%;
+}
+.home,
+.individuals,
+.teams,
+.enterprise,
+.product,.pricing,.resource,.login{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    padding: 10px 20px;
+    font-weight: semiBold;
+    margin: 0 10px;
+    cursor: pointer;
+}
+.getstarted{
+
+    color: white;
+    border-radius: 5px;
+    background-color:rgb(0,105,255);
+    text-decoration: none;
+
+
+    transition: all 0.2s linear 0s;
+    position: relative;
+    display: inline-flex;
+    flex-direction: row-reverse;
+    -webkit-box-align: center;
+    align-items: center;
+    text-align: center;
+    gap: 8px;
+    /* font-family: Gilroy; */
+    font-weight: 600;
+    min-height: 36px;
+    height: auto;
+    margin: 8px 0px;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 8px;
+    border-color: transparent;
+    background-color: rgb(0, 107, 255);
+    padding: 8px 14px;
+    color: rgb(255, 255, 255);
+    outline: none;
+    cursor: pointer;
+    font-size: 0.875rem;
+    line-height: 1.4;
+    
+   
+} 
+.nav-Links{
+    font-weight: bold;
+}
+.logo{
+    color: #0000FF;
+}
+
