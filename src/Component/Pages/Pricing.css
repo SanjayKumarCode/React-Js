@@ -1,0 +1,524 @@
+.Pick {
+    text-align: center;
+    margin-bottom: 32px;
+   color: rgb(11, 53, 88);
+    font-size: 3.125rem;
+    line-height: 1.2;
+}
+.oneLine {
+    display: flex;
+
+    margin-top: 100px;
+    
+    transition: all 0.2s linear 0s;
+    position: relative;
+    display: inline-flex;
+    flex-direction: row;
+    -webkit-box-align: center;
+    align-items: center;
+    text-align: center;
+    gap: 50px;
+    margin: 8px 0px;
+    text-align: left;
+}
+.Billed {
+    /* text-align: left; */
+    color: rgb(97, 109, 122);
+    font-size: 1rem;
+    line-height: 1.4;
+    font-weight: 400;
+    margin-right: 16px;
+    margin-left: 16px;
+    min-width: 107px;
+}
+.annually {
+    /* text-align: left; */
+    color: rgb(0, 107, 255);
+    font-size: 1rem;
+    line-height: 1.4;
+    font-weight: 700;
+    margin-right: 16px;
+    margin-left: 16px;
+    min-width: 107px;
+} 
+.Save {
+    text-align: left;
+    color: rgb(0, 107, 255);
+    font-size: 1rem;
+    line-height: 1.4;
+    font-weight: 700;
+    margin-right: 16px;
+    margin-left: 16px;
+    min-width: 107px;
+    background-color: rgb(247, 250, 255);
+}
+/* card */
+.Always {
+    margin-top: 10%;
+    padding-left: 10px;
+
+    font-size: 1.75rem;
+    text-align: left;
+    color: rgb(11, 53, 88);
+    line-height: 1.125;
+    font-weight: 700;
+}
+.online_desplay {
+    margin: 96px;
+    display: flex;
+    gap: 10px;
+}
+/* .card-body {
+    justify-content: center;
+    border: 1px solid #dadada;
+    border-radius: 1%;
+    max-width: 250px;
+    height: 380px;  */
+    /* margin-left: 13%; */
+    /* background:white; */
+    /* width: 100%;
+    min-width: 0;
+    border: 1px solid #dadada;
+    border-radius: 6px; */
+    /* background: #ffffff; */
+    /* box-shadow: 0 1px 5px rgb(0 74 116 / 15%);   */
+/* } */
+.card-text  {
+    margin-top: 5%;
+    padding-left: 10px;
+
+    text-align: left;
+    color: rgb(71, 103, 136);
+    font-size: 1.125rem;
+    line-height: 1.71429;
+    font-weight: 400;
+}
+.btn {
+         margin-top: 100px;
+         text-align: center;
+         /* width: 100%; */
+         width: 240px;
+
+          /* padding-left: 30px; */
+    display: flex;
+    flex: 1 1 0px;
+    flex-direction: column;
+    padding-top: 24px;
+    padding-left: 24px;
+    padding-right: 24px;
+    min-height: 404px;
+
+    
+    
+    font-weight: 600;
+    min-height: 36px;
+    /* height: auto; */
+    /* margin: 8px 0px; */
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 8px;
+    border-color: rgb(0, 107, 255);
+    background-color: transparent;
+    padding: 8px 14px;
+    color: rgb(0, 107, 255);
+    outline: none;
+    cursor: pointer;
+    font-size: 0.875rem;
+    line-height: 1.4;
+
+}
+.btn-primary23 {
+    background-color: rgb(0, 107, 255);
+    color: white;
+}
+.w-50 {
+    background-color: rgb(248, 248, 248);
+
+}
+.w-52 {
+    background-color: rgb(247, 250, 255);
+}
+.blue234{
+    background-color: rgb(11, 53, 88);
+    color: white;
+}
+.ENTERPRISE { 
+    
+/*     
+    margin-top: 10%;
+    padding-left: 10px; */
+
+    font-size: 1.3rem;
+    line-height: 1.4;
+    text-align: left;
+    color: rgb(255, 255, 255);
+    font-weight: 600;
+    margin-bottom: 24px;
+
+
+    margin-top: 10%;
+    padding-left: 10px;
+   
+
+}
+.Contact_Us {
+    margin-top: 10%;
+    padding-left: 10px;
+
+    font-size: 1.75rem;
+    text-align: left;
+    line-height: 1.125;
+    font-weight: 700;
+
+}
+.card-text2 {
+    margin-top: 5%;
+    padding-left: 10px;
+
+    text-align: left;
+  
+    font-size: 1.125rem;
+    line-height: 1.71429;
+    font-weight: 400;
+}
+.btn2 {
+    
+    margin-top: 100px;
+    text-align: center;
+    /* width: 100%; */
+    width: 240px;
+
+     /* padding-left: 30px; */
+display: flex;
+flex: 1 1 0px;
+flex-direction: column;
+padding-top: 24px;
+padding-left: 24px;
+padding-right: 24px;
+min-height: 404px;
+
+
+
+font-weight: 600;
+min-height: 36px;
+/* height: auto; */
+/* margin: 8px 0px; */
+border-style: solid;
+border-width: 2px;
+border-radius: 8px;
+border-color: white;
+background-color: transparent;
+padding: 8px 14px;
+color: white;
+outline: none;
+cursor: pointer;
+font-size: 0.875rem;
+line-height: 1.4;
+}
+
+/* online23 */
+.online23 {
+    display: flex;
+}
+.FEATURES2 {
+    /* text-align: left; */
+    color: rgb(11, 53, 88);
+    font-size: 1rem;
+    line-height: 1.2;
+    letter-spacing: 1.25px;
+    text-transform: uppercase;
+    font-weight: 700;
+
+    padding-left: 15px;
+
+}
+   .Features {
+        font-size: 1.75rem;
+        line-height: 1.4;
+        /* text-align: left; */
+        color: rgb(11, 53, 88);
+        font-weight: 700;
+
+        padding-left: 55px;
+    }
+    .subscription {
+        /* text-align: left; */
+        margin-top: 5%;
+        padding-left: 10px;
+        color: rgb(11, 53, 88);
+        font-size: 1.125rem;
+        line-height: 1.71429;
+        font-weight: 400;
+        width: 280px;
+
+        padding-left: 55px;
+    }
+
+.w-5112{
+    height: 10%;
+    width: 13%;
+    /* gap: 8px; */
+    /* margin: 48px; */
+    /* margin: 3px; */
+    margin-left: 20px;
+    gap: 2px;
+
+}
+   .basic1{
+    margin-top: 5%;
+    padding-left: 10px;
+    /* text-align: left; */
+    color: rgb(11, 53, 88);
+    font-size: 1.125rem;
+    line-height: 1.71429;
+    font-weight: 700;
+    margin-bottom: 24px;
+   }
+   .free1 {
+    font-size: 1.75rem;
+    line-height: 1.4;
+    /* text-align: left; */
+    color: rgb(11, 53, 88);
+    font-weight: 700;
+    margin-bottom: 24px;
+
+    
+   }
+   .btn-primary1{
+    margin-top: 70px;
+    text-align: center;
+    /* width: 100%; */
+    padding-left: 10px;
+
+    width: 170px;
+
+     /* padding-left: 30px; */
+display: flex;
+flex: 1 1 0px;
+flex-direction: column;
+padding-top: 24px;
+padding-left: 24px;
+padding-right: 24px;
+min-height: 404px;
+
+
+
+font-weight: 600;
+min-height: 36px;
+border-style: solid;
+border-width: 2px;
+border-radius: 8px;
+color: rgb(11, 53, 88);
+background-color: transparent;
+padding: 8px 14px;
+border-color: rgb(11, 53, 88);
+
+outline: none;
+cursor: pointer;
+font-size: 0.875rem;
+line-height: 1.4;
+
+   }
+   .hew1{
+    margin-top: 80px;margin-top: 70px;
+    text-align: center;
+    /* width: 100%; */
+    padding-left: 10px;
+
+    width: 170px;
+
+     /* padding-left: 30px; */
+display: flex;
+flex: 1 1 0px;
+flex-direction: column;
+padding-top: 24px;
+padding-left: 24px;
+padding-right: 24px;
+min-height: 404px;
+font-weight: 600;
+min-height: 36px;
+border-style: solid;
+border-width: 2px;
+border-radius: 8px;
+color: white;
+background-color: transparent;
+padding: 8px 14px;
+/* border-color: rgb(11, 53, 88); */
+background-color: rgb(0, 107, 255);
+
+outline: none;
+cursor: pointer;
+font-size: 0.875rem;
+line-height: 1.4;
+
+
+
+
+    /* height: 80px; */
+   }
+ .btn23 {
+    color: white;
+ }
+
+ /* Button */
+ .bt12 {
+    margin-top: 24px;
+    width: 100%   
+ }
+.core_feature {
+ /* text-decoration: none;
+ border-radius:8px ;
+ border: 1px solid var(--color-grey-2,#B2B2B2); */
+
+ min-width: 0;
+    border: 1px solid #dadada;
+    border-radius: 6px;
+    background: var(--container-background-color,#ffffff);
+    box-shadow: 0 1px 5px rgb(0 74 116 / 15%);
+
+
+
+ /* border-color: antiquewhite; */
+/* border-radius: 16px; */
+
+/* background-color: aliceblue; */
+
+}
+
+
+ .Core {
+    /* border-radius: 15%; */
+  
+    width: 1200px;
+    height: 60px;
+    vertical-align: middle;
+    display: inline-flex;
+    align-items: center;
+    padding-left: 10px;
+    font-size: 20px;
+    color: rgb(11, 53, 88);
+    background-color: rgb(255, 255, 255) ;
+    text-decoration: none;
+
+    /* border: 1px solid black;
+    background: #ffffff; */
+
+    /* margin: 0px;
+    padding: 0px;
+    border: 0px;
+    font: inherit; */
+
+    vertical-align: baseline;
+    
+       cursor: pointer;
+ }
+
+ /* Frequently asked Q */
+ .Q {
+    background-color: rgb(248, 248, 248);
+    margin-top: 48px;
+    display: flex;
+    padding-top: 96px;
+ /* gap: 128px; */
+
+
+    /* transition: all 0.2s linear 0s; */
+    /* position: relative;
+    display: inline-flex; */
+    /* flex-direction: row; */
+    /* -webkit-box-align: center;
+    align-items: center;
+    text-align: center; */
+    /* gap: 28px; */
+    /* padding-bottom: 96px;
+    max-width: 1200px;
+    width: 100%; */
+
+
+    /* flex-direction: column; */
+    /* gap: 128px; */
+
+    
+    
+ }
+ /* .topw {
+    margin-top: 96px;
+ } */
+ .topw {
+    text-align: center;
+    justify-content: center;
+    padding-left: 150px;
+   
+    
+ }
+ .Questions {
+
+ 
+
+    font-size: 3.125rem;
+    line-height: 1.2;
+    text-align: left;
+    color: rgb(29, 52, 75);
+    font-weight: 700;
+    margin-bottom: 32px;
+    /* max-width: 770px; */
+    width: 30%;
+
+ }
+ /* .bt13 {
+    padding-left: 150px;
+
+ } */
+
+.What {
+     /* margin-top: 96px; 
+     padding-left: 150px;  */
+/* 
+     border-radius:8px ;
+    border-color: antiquewhite; */
+   
+    width: 580px;
+    height: 120px;
+  
+    /* background-color: rgb(255, 255, 255) ;  */
+
+    min-width: 0;
+    border: 1px solid #dadada;
+    border-radius: 6px;
+    background: var(--container-background-color,#ffffff);
+    box-shadow: 0 1px 5px rgb(0 74 116 / 15%);
+  
+}
+.happens {
+    /* text-align: left; */
+     /* background-color: red; */
+    color: rgb(11, 53, 88);
+    font-size: 1.75rem;
+    line-height: 1.4;
+    font-weight: 700;
+    padding-right: 24px;
+    width: auto;
+    max-width: 95%;
+}
+
+/* Easy Access for looking */
+.your {
+    color: white;
+    width: 100%;
+    line-height: 1.71429;
+    height: auto;
+    padding-bottom: 32px;
+    font-size: 20px;
+}
+
+.plans {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+.Talk {
+    color: white;
+    border-color: aliceblue;
+}
+
+
