@@ -4,6 +4,7 @@ import "./Navbar.css"
 
 const Navbar = () => {
   return (
+    <>
     <nav className="navbar">
     <h3 className="logo"><a href='/'> <img className='logo' style={{height:"45px", width:"fit-content"}} src='
 https://assets.calendly.com/assets/authentication/media/logo-f885ef95906ef15bb6fb.png' alt=""  /> </a> </h3>
@@ -48,6 +49,7 @@ https://assets.calendly.com/assets/authentication/media/logo-f885ef95906ef15bb6f
 
     </ul>
     </nav>
+    </>
   )
 }
 
